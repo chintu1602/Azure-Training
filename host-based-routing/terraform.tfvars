@@ -1,0 +1,12 @@
+rg_name             = "rg-host-based-routing"
+location            = "Central India"
+vnet_name           = "myVNet"
+vnet_cidr           = "10.0.0.0/16"
+backend_subnet_cidr = "10.0.1.0/24"
+gateway_subnet_cidr = "10.0.2.0/24"
+vm_size             = "Standard_D2s_v5"
+admin_username      = "yaswanth"
+admin_password      = "Chintu@160203"
+fitness_hostname    = "fitness.sneakerhead.rest"
+organic_hostname    = "organic.sneakerhead.rest"
+
